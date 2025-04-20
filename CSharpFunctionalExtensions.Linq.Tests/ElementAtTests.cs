@@ -1,6 +1,6 @@
 ﻿namespace CSharpFunctionalExtensions.Linq.Tests;
 
-internal class ElementAtTests
+public class ElementAtTests
 {
     [Fact]
     public void ElementAtOrError_Result_ReturnsSuccess_WhenElementExists()
