@@ -1,5 +1,5 @@
 
-# CSharp Functional Extensions
+# CSharpFunctionalExtensions.Linq
 
 This package provides a set of useful extension methods for working with `IEnumerable<T>`, helping you to handle common scenarios (like retrieving elements or handling empty sequences) in a functional style. It uses types like `Result<T>`, `Maybe<T>`, to make code more expressive and handle errors in a more functional manner.
 
